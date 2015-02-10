@@ -2,7 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
+<<<<<<< HEAD
 url: http://socialkinetics.github.io
+=======
+url: http://yoursite.com
+>>>>>>> dd67ab94eace588aa14340847165fc892164957b
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
