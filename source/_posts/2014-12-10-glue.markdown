@@ -1,0 +1,12 @@
+---
+layout: post
+title: "glue"
+date: 2014-12-10 14:44:46 -0500
+comments: true
+categories: 
+---
+
+social glue, social kinding. something to facilitate interactions.
+
+test: confederates. someone acts like social kindling -- lower the barrier of difficulty
+
